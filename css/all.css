@@ -1,0 +1,176 @@
+* {
+    color: #2d3436;
+}
+
+.active{
+    color: #040921;
+    font-weight: bold;
+}
+
+.section-padding {
+    padding: 50px 0;
+}
+
+.section-feature {
+    color: #F58123;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.section-heading {
+    color: #064281;
+    font-weight: 500;
+    font-size: 35px;
+}
+
+.section-para{
+    font-size: 16px;
+    line-height: 25px;
+    text-align: justify;
+}
+
+.section-para2{
+    text-align: center;
+    color: #2d3436;
+    font-size: 15px;
+}
+
+@media only screen and (max-width: 992px) {
+    .section-padding {
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .section-feature {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .section-heading {
+        font-weight: 600;
+        font-size: 30px;
+    }
+
+    .section-para{
+        font-size: 15px;
+        line-height: 24px;
+        text-align: justify;
+    }
+}
+
+@media only screen and (max-width: 576px){
+    .section-heading {
+        font-size: 22px;
+    }
+}
+
+/* =================scroll to top start================= */
+.scroll-to-top{
+    display: none;
+    position: fixed;
+    right: 25px;
+    bottom: 25px;
+}
+
+.scroll-to-top .fa-arrow-up{
+    padding: 12px 15px;
+    background-color: rgb(245,129,35, 0.8);
+    color: #064281;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 992px) {
+    .scroll-to-top{
+        visibility: hidden;  
+    } 
+  }
+/* =================scroll to top end================= */
+
+/* ==================mobile-view-bottom-nav start============= */
+@media only screen and (min-width: 992px) {
+    .mobile-view-bottom-nav{
+        display: none; 
+    } 
+  }
+
+.mobile-view-bottom-nav{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+ .mobile-view-bottom-nav-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ecf0f1;
+    padding: 10px;
+}
+
+.mobile-view-bottom-nav-container a{
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.mobile-view-bottom-nav-container i{
+    font-size: 15px;
+}
+
+.mobile-view-bottom-nav-container span{
+    display: block;
+}
+
+
+/* ==================mobile-view-bottom-nav end============= */
+
+/* ===============page-banner-header start================ */
+.page-header-current-link{
+    background-color: #ecf0f1;
+    padding: 10px;
+}
+
+.page-header-current-link a{
+    text-decoration: none;
+    color: #F58123;
+}
+
+.page-header-current-link-active{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.page-header-current-link i{
+    color: #044081;
+}
+/* ===============page-banner-header end================ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
