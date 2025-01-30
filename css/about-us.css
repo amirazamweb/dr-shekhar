@@ -126,25 +126,6 @@
 .service-section-item-details p{
     margin-bottom: 15px;
     color: #2d3436;
-    font-size: 16px;
-}
-
-.service-section-item-details button{
-    background-color: #F58123;
-    border-style: none;
-    padding: 8px 0px;
-    border-radius: 20px;
-}
-
-.service-section-item-details button a{
-    text-decoration: none;
-    color: #064281;
-    padding: 8px 20px;
-}
-
-.service-section-item-details button i{
-    color: #064281;
-    margin-left: 5px;
 }
   
 @media only screen and (max-width: 992px){
@@ -159,13 +140,5 @@
     .service-section-container{
         grid-template-columns: repeat(1, 1fr);
         gap: 20px;
-    }
-
-    .service-section-item-details button{
-        padding: 8px 0px;
-    }
-    
-    .service-section-item-details button a{
-        padding: 8px 17px;
     }
 }

@@ -72,7 +72,7 @@
 }
 
 .mobile-top-box-content {
-    background-color: #ecf0f1;
+    background-color: #fff;
     margin-top: 10px;
     padding: 12px 15px;
     border-radius: 10px;
@@ -88,7 +88,7 @@
 
 .mob-header-rating-features>div {
     width: 50%;
-    background-color: #ecf0f1;
+    background-color: #fff;
     padding: 12px 15px;
     border-radius: 10px;
     font-size: 10px;
@@ -289,23 +289,6 @@
     text-align: left;
 }
 
-.services-section-content button{
-    background-color: #F58123;
-    padding: 8px 0;
-    border: none;
-    display: block;
-    margin: auto;
-    margin-top: 40px;
-    border-radius: 20px;
-    font-weight: 500;
-}
-
-.services-section-content button a{
-    text-decoration: none;
-    color: #064281;
-    padding: 20px;
-}
-
 @media only screen and (max-width: 768px) {
     .services-section-card-container{
         margin-top: 20px;
@@ -328,16 +311,6 @@
         line-height: 14px;
     }
 
-    .services-section-content button{
-        padding: 6px 0;
-        margin-top: 24px;
-        font-weight: 500;
-    }
-
-    .services-section-content button a{
-        padding: 16px;
-        font-size: 14px;
-    }
 }
 
 
@@ -439,38 +412,6 @@
     font-weight: 500;
 }
 
-.reviews-section-container button{
-    background-color: #F58123;
-    padding: 8px 0;
-    border: none;
-    display: block;
-    margin: auto;
-    margin-top: 40px;
-    border-radius: 20px;
-    font-weight: 500;
-}
-
-.reviews-section-container button a{
-    text-decoration: none;
-    color: #064281;
-    padding: 20px;
-}
-
-
-@media only screen and (max-width: 768px) {
-    .reviews-section-container button{
-        padding: 6px 0;
-        margin-top: 24px;
-        font-weight: 500;
-    }
-    
-    .reviews-section-container button a{
-        padding: 16px;
-        font-size: 14px;
-    }
-}
-
-
 /* ===============reviews-section end=============== */
 
 
@@ -539,23 +480,6 @@
     width: 100%;
 }
 
-.blog-section-container button{
-    background-color: #F58123;
-    padding: 8px 0;
-    border: none;
-    display: block;
-    margin: auto;
-    margin-top: 40px;
-    border-radius: 20px;
-    font-weight: 500;
-}
-
-.blog-section-container button a{
-    text-decoration: none;
-    color: #064281;
-    padding: 20px;
-}
-
 @media only screen and (max-width: 768px){
     .blog-section-card-container{
         grid-template-columns: repeat(1, 1fr);
@@ -603,20 +527,6 @@
     }
 }
 
-
-
-@media only screen and (max-width: 768px) {
-    .blog-section-container button{
-        padding: 6px 0;
-        margin-top: 24px;
-        font-weight: 500;
-    }
-    
-    .blog-section-container button a{
-        padding: 16px;
-        font-size: 14px;
-    }
-}
 /* =================blog section end================ */
 
 /* ==================faq  section start=============== */

@@ -7,6 +7,45 @@
     font-weight: bold;
 }
 
+/* custom button design */
+
+.btn-design{
+    background-color: #F58123;
+    padding: 8px 0;
+    border: none;
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+.btn-design a{
+    text-decoration: none;
+    color: #064281;
+    padding: 20px;
+}
+
+.btn-design a i{
+    color: #044081;
+    margin-left: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+    .btn-design{
+        padding: 6px 0;
+        margin-top: 24px;
+        font-weight: 500;
+    }
+
+    .btn-design a{
+        padding: 16px;
+        font-size: 14px;
+    }
+}
+
+
+
 .section-padding {
     padding: 50px 0;
 }

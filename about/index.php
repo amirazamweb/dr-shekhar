@@ -88,8 +88,8 @@
                             </div>
                             <div class="service-section-item-details">
                                 <h5>Lorem ipsum dolor sit.</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
-                                <button><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
+                                <p class="section-para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
+                                <button class="btn-design"><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
                             </div>
                         </div>
                         <div class="service-section-item">
@@ -98,8 +98,8 @@
                             </div>
                             <div class="service-section-item-details">
                                 <h5>Lorem ipsum dolor sit.</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
-                                <button><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
+                                <p class="section-para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
+                                <button class="btn-design"><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
                             </div>
                         </div>
                         <div class="service-section-item">
@@ -108,8 +108,8 @@
                             </div>
                             <div class="service-section-item-details">
                                 <h5>Lorem ipsum dolor sit.</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
-                                <button><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
+                                <p class="section-para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
+                                <button class="btn-design"><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
                             </div>
                         </div>
                         <div class="service-section-item">
@@ -118,8 +118,8 @@
                             </div>
                             <div class="service-section-item-details">
                                 <h5>Lorem ipsum dolor sit.</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
-                                <button><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
+                                <p class="section-para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
+                                <button class="btn-design"><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
                             </div>
                         </div>
                         <div class="service-section-item">
@@ -128,8 +128,8 @@
                             </div>
                             <div class="service-section-item-details">
                                 <h5>Lorem ipsum dolor sit.</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
-                                <button><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
+                                <p class="section-para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
+                                <button class="btn-design"><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
                             </div>
                         </div>
                         <div class="service-section-item">
@@ -138,48 +138,8 @@
                             </div>
                             <div class="service-section-item-details">
                                 <h5>Lorem ipsum dolor sit.</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
-                                <button><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
-                            </div>
-                        </div>
-                        <div class="service-section-item">
-                            <div>
-                                <img src="../images/temp/temp.jpg" alt="" class="w-100">
-                            </div>
-                            <div class="service-section-item-details">
-                                <h5>Lorem ipsum dolor sit.</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
-                                <button><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
-                            </div>
-                        </div>
-                        <div class="service-section-item">
-                            <div>
-                                <img src="../images/temp/temp.jpg" alt="" class="w-100">
-                            </div>
-                            <div class="service-section-item-details">
-                                <h5>Lorem ipsum dolor sit.</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
-                                <button><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
-                            </div>
-                        </div>
-                        <div class="service-section-item">
-                            <div>
-                                <img src="../images/temp/temp.jpg" alt="" class="w-100">
-                            </div>
-                            <div class="service-section-item-details">
-                                <h5>Lorem ipsum dolor sit.</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
-                                <button><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
-                            </div>
-                        </div>
-                        <div class="service-section-item">
-                            <div>
-                                <img src="../images/temp/temp.jpg" alt="" class="w-100">
-                            </div>
-                            <div class="service-section-item-details">
-                                <h5>Lorem ipsum dolor sit.</h5>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
-                                <button><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
+                                <p class="section-para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex aperiam voluptas eveniet recusandae at aspernatur eligendi suscipit ratione assumenda!</p>
+                                <button class="btn-design"><a href="#">Know More<span><i class="fa-solid fa-arrow-right-long"></i></a></button>
                             </div>
                         </div>
                     </div>

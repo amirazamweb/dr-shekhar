@@ -170,7 +170,7 @@
                         </div>
                     </div>
 
-                    <button><a href="#">View More <span><i class="fa-solid fa-arrow-right-long"></i></span></a></button>
+                    <button class="btn-design"><a href="#">View More <span><i class="fa-solid fa-arrow-right-long"></i></span></a></button>
                 </div>
             </div>
         </section>
@@ -306,7 +306,7 @@
                             </div>
                         </div>
                     </div>
-                    <button><a href="#">View More <span><i class="fa-solid fa-arrow-right-long"></i></span>
+                    <button class="btn-design"><a href="#">View More <span><i class="fa-solid fa-arrow-right-long"></i></span>
                         </a></button>
                 </div>
             </div>
@@ -339,7 +339,7 @@
                             <a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, illum.</a>
                         </div>
                     </div>
-                    <button><a href="#">View More <span><i class="fa-solid fa-arrow-right-long"></i></span>
+                    <button class="btn-design"><a href="#">View More <span><i class="fa-solid fa-arrow-right-long"></i></span>
                         </a></button>
                 </div>
             </div>
