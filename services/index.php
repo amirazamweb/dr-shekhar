@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About</title>
+    <title>Our Arthroscopy Services</title>
     <link rel="stylesheet" href="../css/navbar.css">
     <link rel="stylesheet" href="../css/all.css">
     <link rel="stylesheet" href="../css/footer.css">
-    <link rel="stylesheet" href="../css/about-us.css">
+    <link rel="stylesheet" href="../css/services.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
@@ -27,51 +27,15 @@
 
 
         <!-- page banner start -->
-        <div class="page-header about-header">
-            <img src="../images/page-banner/about-us-banner.jpg" alt="page-banner" class="w-100">
+        <div class="page-header">
+            <img src="../images/page-banner/services-banner.jpg" alt="page-banner" class="w-100">
             <div class="page-header-current-link">
                 <div class="container">
-                    <a href="/">Home</a>&nbsp;<span><i class="fa-solid fa-angle-right"></i></span>&nbsp;<a href="#" class="page-header-current-link-active">About Us</a>
+                    <a href="/">Home</a>&nbsp;<span><i class="fa-solid fa-angle-right"></i></span>&nbsp;<a href="#" class="page-header-current-link-active">Our Services</a>
                 </div>
             </div>
         </div>
         <!-- page banner end -->
-
-        <!-- about us section start  -->
-        <section class="about-us-section section-padding">
-            <div class="container">
-                <div class="about-us-section-container">
-                    <div class="about-us-section-colo-1">
-                        <h2 class="section-heading">Best Arthroscopy Surgeon in Delhi NCR</h2>
-                        <p class="section-para">
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam, earum possimus. Corrupti nisi itaque aperiam qui fugit expedita, repudiandae recusandae autem quas dignissimos ipsam impedit. Distinctio magnam voluptate dolor deserunt eaque, ex ullam ab, provident quasi accusamus aliquam reiciendis quam quos sapiente maiores voluptatum quae error est tenetur sed cum sunt aut veniam? Assumenda minus iste debitis quos
-                        </p>
-
-                        <div class="about-us-section-features">
-                            <div class="about-us-section-features-item">
-                                <div> <i class="fa-solid fa-hospital"></i></div>
-                                <div>Lorem ipsum dolor sit.</div>
-                            </div>
-                            <div class="about-us-section-features-item">
-                                <div><i class="fa-solid fa-syringe"></i></div>
-                                <div>Lorem ipsum dolor sit.</div>
-                            </div>
-                            <div class="about-us-section-features-item">
-                                <div><i class="fa-solid fa-hospital-user"></i></div>
-                                <div>Lorem ipsum dolor sit.</div>
-                            </div>
-                            <div class="about-us-section-features-item">
-                                <div><i class="fa-solid fa-star-of-life"></i></div>
-                                <div>Lorem ipsum dolor sit.</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="about-us-section-colo-2">
-                        <img src="../images/doctor-shekhar-profile.jpg" alt="doctor-image" class="w-100">
-                    </div>
-                </div>
-            </div>
-        </section>
 
         <!-- about us section end  -->
 

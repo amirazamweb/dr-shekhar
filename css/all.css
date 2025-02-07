@@ -186,6 +186,97 @@
 /* ===============page-banner-header end================ */
 
 
+/* arthroscopy header */
+.arthroscopy-header{
+    background-color: #f5822338;
+    padding: 10vh 0;
+    text-align: center;
+}
+
+.arthroscopy-header h2{
+    font-size: 42px;
+    font-weight: 700;
+    color: #044081;
+}
+
+.arthroscopy-header p{
+    font-size: 15px;
+}
+.arthroscopy-header p a{
+    text-decoration: none;
+    color: #2d3436;
+}
+
+.arthroscopy-details-section{
+    padding-top: 60px;
+}
+
+.arthroscopy-details img{
+    width: 100%;
+    max-width: 520px;
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.arthroscopy-details h3{
+    font-size: 25px;
+    margin-bottom: 12px;
+    color: #044081;
+}
+
+.arthroscopy-details h4{
+    font-size: 20px;
+}
+
+.arthroscopy-faq-section{
+    text-align: left !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .arthroscopy-header{
+        padding: 0;
+        padding-top: 20px;
+        background-color: rgb(245,129,35, 0)
+    }
+    .arthroscopy-header h2{
+        font-size: 28px;
+        font-weight: 600;
+    }
+
+    .arthroscopy-details-section{
+        padding-top: 0px;
+    }
+    .arthroscopy-details img{
+        margin-left: 0;
+        display: block;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .arthroscopy-details h3{
+        font-size: 22px;
+        margin-bottom: 12px;
+        color: #044081;
+        margin-top: 30px;
+    }
+    .arthroscopy-details h4{
+        font-size: 18px;
+    }
+
+  }
+
+  /* ================== arthroscopy faq  section start=============== */
+.arthroscopy-faq-item-container{
+    width: 100%;
+    max-width: 700px;
+    margin: auto;
+    margin-top: 20px;
+}
+ 
+ /* ==================arthroscopy faq  section end=============== */
+
+
 
 
 
